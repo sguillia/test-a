@@ -1,0 +1,3 @@
+[submodule "test-b"]
+	path = test-b
+	url = https://github.com/sguillia/test-b
